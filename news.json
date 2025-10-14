@@ -21,24 +21,17 @@
     "importance": "Faible"
   },
   {
-    "id": 4,
-    "title": "Nouvelle fonctionnalité",
-    "content": "Découvrez la nouvelle section de profil utilisateur !",
-    "date": "2025-10-12",
-    "importance": "Normal"
+    "id": 8,
+    "title": "Maintenance serveur",
+    "content": "Le service sera temporairement indisponible ce soir.",
+    "date": "2025-10-14",
+    "importance": "Urgent"
   },
   {
-    "id": 5,
-    "title": "Nouvelle fonctionnalité",
-    "content": "Découvrez la nouvelle section de profil utilisateur !",
-    "date": "2025-10-12",
-    "importance": "Normal"
+    "id": 9,
+    "title": "Maintenance serveur",
+    "content": "Le service sera temporairement indisponible ce soir.",
+    "date": "2025-10-14",
+    "importance": "Urgent"
   },
-  {
-    "id": 6,
-    "title": "Nouvelle fonctionnalité",
-    "content": "Découvrez la nouvelle section de profil utilisateur !",
-    "date": "2025-10-12",
-    "importance": "Normal"
-  }
 ]
