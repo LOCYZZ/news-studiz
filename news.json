@@ -19,5 +19,26 @@
     "content": "N’oubliez pas de vérifier vos paramètres de notification.",
     "date": "2025-10-10",
     "importance": "Faible"
+  },
+  {
+    "id": 4,
+    "title": "Nouvelle fonctionnalité",
+    "content": "Découvrez la nouvelle section de profil utilisateur !",
+    "date": "2025-10-12",
+    "importance": "Normal"
+  },
+  {
+    "id": 5,
+    "title": "Nouvelle fonctionnalité",
+    "content": "Découvrez la nouvelle section de profil utilisateur !",
+    "date": "2025-10-12",
+    "importance": "Normal"
+  },
+  {
+    "id": 6,
+    "title": "Nouvelle fonctionnalité",
+    "content": "Découvrez la nouvelle section de profil utilisateur !",
+    "date": "2025-10-12",
+    "importance": "Normal"
   }
 ]
