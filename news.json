@@ -1,37 +1,9 @@
 [
   {
     "id": 1,
-    "title": "Maintenance serveur",
-    "content": "Le service sera temporairement indisponible ce soir.",
+    "title": "Nouvelle mise à jour V4 disponible !",
+    "content": "La partie Notes a été améliorée avec des couleurs et la possibilité de gérer les coefficients. L'Agenda a été repensé pour plus d'ergonomie et la section News a été ajoutée pour suivre toutes les actualités importantes directement dans l'app.",
     "date": "2025-10-14",
-    "importance": "Urgent"
-  },
-  {
-    "id": 2,
-    "title": "Nouvelle fonctionnalité",
-    "content": "Découvrez la nouvelle section de profil utilisateur !",
-    "date": "2025-10-12",
     "importance": "Normal"
-  },
-  {
-    "id": 3,
-    "title": "Petit rappel",
-    "content": "N’oubliez pas de vérifier vos paramètres de notification.",
-    "date": "2025-10-10",
-    "importance": "Faible"
-  },
-  {
-    "id": 8,
-    "title": "Maintenance serveur",
-    "content": "Le service sera temporairement indisponible ce soir.",
-    "date": "2025-10-14",
-    "importance": "Urgent"
-  },
-  {
-    "id": 9,
-    "title": "Maintenance serveur",
-    "content": "Le service sera temporairement indisponible ce soir.",
-    "date": "2025-10-14",
-    "importance": "Urgent"
   }
 ]
