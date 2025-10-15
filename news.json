@@ -12,5 +12,12 @@
     "content": "Je suis au courant des problème d'interface existe pour les différents thèmes il vont être corrigé prochainement.",
     "date": "2025-10-15",
     "importance": "Faible"
+  },
+  {
+    "id": 12,
+    "title": "Problème d'horaires",
+    "content": "Je suis au courant des problème d'horaire décaler de 1h en plus à cause du changement d'heure du 26 octobre des modifications seront apportés",
+    "date": "2025-10-15",
+    "importance": "Urgent"
   }
 ]
