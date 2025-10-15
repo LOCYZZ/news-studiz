@@ -8,9 +8,9 @@
   },
   {
     "id": 11,
-    "title": "Nouvelle mise à jour V4 disponible !",
-    "content": "La partie Notes a été améliorée avec des couleurs et la possibilité de gérer les coefficients. L'Agenda a été repensé pour plus d'ergonomie et la section News a été ajoutée pour suivre toutes les actualités importantes directement dans l'app.",
-    "date": "2025-10-14",
-    "importance": "Normal"
+    "title": Problème interface",
+    "content": "Je suis au courant des problème d'interface existe pour les différents thèmes il vont être corrigé prochainement.",
+    "date": "2025-10-15",
+    "importance": "Faible"
   }
 ]
