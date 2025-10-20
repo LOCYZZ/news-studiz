@@ -1,23 +1,23 @@
 [
   {
-    "id": 1,
+    "id": 13,
+    "title": "Nouvelle mise à jour V5 disponible !",
+    "content": "Correction du bug du test de math dans le planning, résolution du problème de couleurs en mode sombre pour les devoirs à venir, et ajout des filières BUT2 et BUT3.",
+    "date": "2025-10-20",
+    "importance": "Urgent"
+  },
+  {
+    "id": 14,
+    "title": "Problème d'horaires",
+    "content": "le décalage d’horaire après les vacances sera automatiquement corrigé après le changement d’heure du 26 octobre — aucune action n’est nécessaire.",
+    "date": "2025-10-20",
+    "importance": "Urgent"
+  },
+  {
+    "id": 2,
     "title": "Nouvelle mise à jour V4 disponible !",
     "content": "La partie Notes a été améliorée avec des couleurs et la possibilité de gérer les coefficients. L'Agenda a été repensé pour plus d'ergonomie et la section News a été ajoutée pour suivre toutes les actualités importantes directement dans l'app.",
     "date": "2025-10-14",
-    "importance": "Normal"
-  },
-  {
-    "id": 11,
-    "title": "Problème interface",
-    "content": "Je suis au courant des problème d'interface existe pour les différents thèmes il vont être corrigé prochainement.",
-    "date": "2025-10-15",
     "importance": "Faible"
-  },
-  {
-    "id": 12,
-    "title": "Problème d'horaires",
-    "content": "Je suis au courant des problèmes d'horaire décalés de 1h en plus à cause du changement d'heure du 26 octobre. Des modifications seront apportées",
-    "date": "2025-10-15",
-    "importance": "Urgent"
   }
 ]
