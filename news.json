@@ -2,7 +2,7 @@
   {
     "id": 13,
     "title": "Nouvelle mise à jour V5 disponible !",
-    "content": "Correction du bug du test de math dans le planning, résolution du problème de couleurs en mode sombre pour les devoirs à venir, et ajout des filières BUT2 et BUT3.",
+    "content": "Correction du bug du test de math dans le planning, résolution du problème de couleurs en mode sombre pour les devoirs à venir, et ajout des filières BUT2 et BUT3. PS: Le site est en train d'être mis à jour, donc c'est normal si vous ne parvenez pas à y accéder dm@studizapp pour le lien de téléchargement",
     "date": "2025-10-20",
     "importance": "Urgent"
   },
@@ -12,12 +12,5 @@
     "content": "Le décalage d’horaire après les vacances sera automatiquement corrigé après le changement d’heure du 26 octobre — aucune action n’est nécessaire.",
     "date": "2025-10-20",
     "importance": "Urgent"
-  },
-  {
-    "id": 2,
-    "title": "Nouvelle mise à jour V4 disponible !",
-    "content": "La partie Notes a été améliorée avec des couleurs et la possibilité de gérer les coefficients. L'Agenda a été repensé pour plus d'ergonomie et la section News a été ajoutée pour suivre toutes les actualités importantes directement dans l'app.",
-    "date": "2025-10-14",
-    "importance": "Faible"
   }
 ]
