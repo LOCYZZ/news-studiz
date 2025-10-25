@@ -6,7 +6,8 @@
     "date": "2025-10-20",
     "importance": "Urgent",
     "hasRedirect": true,
-    "redirectUrl": "https://studiz.fun/"
+    "redirectUrl": "https://studiz.fun/",
+    "targetClasses": ["all"]
   },
   {
     "id": 14,
@@ -14,6 +15,16 @@
     "content": "Le décalage d’horaire après les vacances sera automatiquement corrigé après le changement d’heure du 26 octobre — aucune action n’est nécessaire.",
     "date": "2025-10-20",
     "importance": "Urgent",
-    "hasRedirect": false
+    "hasRedirect": false,
+    "targetClasses": ["all"]
+  },
+  {
+    "id": 15,
+    "title": "News test",
+    "content": "News test",
+    "date": "2025-10-25",
+    "importance": "Faible",
+    "hasRedirect": false,
+    "targetClasses": ["BUT1:11A"]
   }
 ]
