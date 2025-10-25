@@ -4,13 +4,16 @@
     "title": "Nouvelle mise à jour V5 disponible !",
     "content": "Correction du bug du test de math dans le planning, résolution du problème de couleurs en mode sombre pour les devoirs à venir, et ajout des filières BUT2 et BUT3. https://studiz.fun/",
     "date": "2025-10-20",
-    "importance": "Urgent"
+    "importance": "Urgent",
+    "hasRedirect": true,
+    "redirectUrl": "https://studiz.fun/"
   },
   {
     "id": 14,
     "title": "Problème d'horaires",
     "content": "Le décalage d’horaire après les vacances sera automatiquement corrigé après le changement d’heure du 26 octobre — aucune action n’est nécessaire.",
     "date": "2025-10-20",
-    "importance": "Urgent"
+    "importance": "Urgent",
+    "hasRedirect": false
   }
 ]
