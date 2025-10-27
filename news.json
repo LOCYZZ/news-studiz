@@ -1,30 +1,22 @@
 [
   {
-    "id": 13,
-    "title": "Nouvelle mise à jour V5 disponible !",
-    "content": "Correction du bug du test de math dans le planning, résolution du problème de couleurs en mode sombre pour les devoirs à venir, et ajout des filières BUT2 et BUT3.",
-    "date": "2025-10-20",
-    "importance": "Urgent",
+    "id": 16,
+    "title": "Nouvelle mise à jour V6 disponible !",
+    "content": "Ajout des BUT2 et BUT3 ainsi que de toutes les autres classes de Le Mans Université.\nCorrection du décalage horaire.\nDisparition des notes inutiles.\nAutorisation de l’application paramétrée.\nCiblage des news désormais possible.\nNouveau bouton de redirection web dans la section News.\n\nTélécharge la V6 dès maintenant et découvre toutes les améliorations.",
+    "date": "2025-10-27",
+    "importance": "Important",
     "hasRedirect": true,
     "redirectUrl": "https://studiz.fun/",
     "targetClasses": ["all"]
   },
   {
-    "id": 14,
-    "title": "Problème d'horaires",
-    "content": "Le décalage d’horaire après les vacances sera automatiquement corrigé après le changement d’heure du 26 octobre — aucune action n’est nécessaire.",
-    "date": "2025-10-20",
-    "importance": "Urgent",
-    "hasRedirect": false,
+    "id": 17,
+    "title": "Rejoins Studiz sur Instagram",
+    "content": "Ne rate aucune nouveauté ni astuce d’organisation.\nSuis-nous dès maintenant sur Instagram : @studizapp\nDu contenu exclusif, des aperçus des prochaines versions et des sondages pour améliorer l'app à venir.",
+    "date": "2025-10-27",
+    "importance": "Normal",
+    "hasRedirect": true,
+    "redirectUrl": "https://www.instagram.com/studizapp?igsh=MXZmaXpkN3NvNW54cw==",
     "targetClasses": ["all"]
-  },
-  {
-    "id": 15,
-    "title": "News test",
-    "content": "News test",
-    "date": "2025-10-25",
-    "importance": "Faible",
-    "hasRedirect": false,
-    "targetClasses": ["BUT1:11A"]
   }
 ]
