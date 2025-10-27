@@ -4,7 +4,7 @@
     "title": "Nouvelle mise à jour V6 disponible !",
     "content": "Ajout des BUT2 et BUT3 ainsi que de toutes les autres classes de Le Mans Université.\nCorrection du décalage horaire.\nDisparition des notes inutiles.\nAutorisation de l’application paramétrée.\nCiblage des news désormais possible.\nNouveau bouton de redirection web dans la section News.\n\nTélécharge la V6 dès maintenant et découvre toutes les améliorations.",
     "date": "2025-10-27",
-    "importance": "Important",
+    "importance": "Urgent",
     "hasRedirect": true,
     "redirectUrl": "https://studiz.fun/",
     "targetClasses": ["all"]
