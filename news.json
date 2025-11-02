@@ -1,5 +1,15 @@
 [
   {
+    "id": 18,
+    "title": "⚠️ Télécharge la dernière mise à jour !",
+    "content": "Si tu rencontres un problème de décalage horaire dans ton emploi du temps, pense à télécharger la dernière mise à jour de Studiz (version V6). Elle corrige définitivement ce bug et apporte plusieurs améliorations importantes.",
+    "date": "2025-11-02",
+    "importance": "Urgent",
+    "hasRedirect": true,
+    "redirectUrl": "https://studiz.fun/",
+    "targetClasses": ["all"]
+  },
+  {
     "id": 16,
     "title": "Nouvelle mise à jour V6 disponible !",
     "content": "Ajout des BUT2 et BUT3 ainsi que de toutes les autres classes de Le Mans Université.\nCorrection du décalage horaire.\nDisparition des notes inutiles.\nAutorisation de l’application paramétrée.\nCiblage des news désormais possible.\nNouveau bouton de redirection web dans la section News.\n\nTélécharge la V6 dès maintenant et découvre toutes les améliorations.",
