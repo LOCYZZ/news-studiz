@@ -14,7 +14,7 @@
     "title": "🛠️ Améliorations & Nouveautés — Version V8",
     "content": "La mise à jour **V8** est maintenant disponible ! 🚀\n\n🗓️ Passage automatique à la semaine suivante lorsque la semaine est terminée.\n🧭 Affichage du planning décalé à partir du mercredi à l’ouverture de l’application.\n📊 Ajout des SAE dans le système de notes.\n➕ Ajout du samedi dans le planning pour une organisation encore plus complète.\n\n🚀 Plus fluide, plus clair, plus efficace !",
     "date": "2026-01-12",
-    "importance": "Important",
+    "importance": "Urgent",
     "hasRedirect": true,
     "redirectUrl": "https://studiz.fun/",
     "targetClasses": ["all"]
