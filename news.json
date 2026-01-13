@@ -2,11 +2,11 @@
   {
     "id": 20,
     "title": "⚠️ Information importante",
-    "content": "Un bug est actuellement présent : il est impossible de faire défiler (scroll) le planning.\n\nNous sommes conscients du problème et un correctif sera déployé au plus vite. Merci pour votre patience 🙏",
+    "content": "Bug corrigé, correctif disponible sur le site",
     "date": "2026-01-12",
     "importance": "Urgent",
-    "hasRedirect": false,
-    "redirectUrl": "",
+    "hasRedirect": true,
+    "redirectUrl": "https://studiz.fun/",
     "targetClasses": ["all"]
   },
   {
