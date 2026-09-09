@@ -1,19 +1,5 @@
 [
   {
-    "id": 1778540000954,
-    "title": "Nouvelle mise à jour (v11) ✨",
-    "content": "On a optimisé l'affichage et ajouté le support multi-planning. Installe la v11 pour découvrir toutes les améliorations !",
-    "date": "12/05/2026",
-    "importance": "Urgent",
-    "targetClasses": [
-      "all"
-    ],
-    "hasRedirect": true,
-    "redirectUrl": "https://studiz.fun/#download",
-    "showOnOpen": true,
-    "maxShowCount": 1
-  },
-  {
     "id": 22,
     "title": "📸 Rejoins Studiz sur Instagram !",
     "content": "Ne rate aucune nouveauté ni astuce d'organisation 📅\nSuis-nous dès maintenant sur Instagram : @studizapp\n➡️ Du contenu exclusif, des aperçus des prochaines versions et des sondages pour améliorer l'app à venir.",
