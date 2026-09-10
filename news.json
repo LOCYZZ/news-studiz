@@ -1,5 +1,19 @@
 [
   {
+    "id": 1789017172592,
+    "title": "Studiiz sur Google play store !",
+    "content": "📱 Mise à jour disponible ! Une nouvelle version de Studiiz est disponible sur le Google Play Store 🎉 Mets à jour l’application pour profiter des dernières nouveautés et améliorations. Si la mise à jour ne s’affiche pas, désinstalle puis réinstalle Studiiz depuis le Google Play Store. ❤️",
+    "date": "10/09/2026",
+    "importance": "Urgent",
+    "targetClasses": [
+      "all"
+    ],
+    "hasRedirect": true,
+    "redirectUrl": "https://studiiz.fun",
+    "showOnOpen": true,
+    "maxShowCount": 1
+  },
+  {
     "id": 22,
     "title": "📸 Rejoins Studiz sur Instagram !",
     "content": "Ne rate aucune nouveauté ni astuce d'organisation 📅\nSuis-nous dès maintenant sur Instagram : @studiizapp\n➡️ Du contenu exclusif, des aperçus des prochaines versions et des sondages pour améliorer l'app à venir.",
